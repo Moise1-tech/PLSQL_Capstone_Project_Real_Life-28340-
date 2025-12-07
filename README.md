@@ -441,7 +441,7 @@ Top 10 users by failed attempts (suspicious)
 Login origin distribution (by src_ip / country — requires GeoIP enrichment)
 
 Sample queries
-
+![Image](https://github.com/user-attachments/assets/ba91741c-7cd6-4053-ab41-2ff917450af1)
 -- Daily success/failure
 SELECT TRUNC(attempt_time) day,
        SUM(CASE WHEN status='SUCCESS' THEN 1 ELSE 0 END) success_count,
