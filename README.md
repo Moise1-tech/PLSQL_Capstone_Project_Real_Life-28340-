@@ -365,7 +365,7 @@ BEGIN
   END LOOP;
 END;
 /
-
+![Image](https://github.com/user-attachments/assets/534bc3ee-2ba2-4ef7-acde-5d80a85e85ea)
 Phase VII — Advanced programming, triggers & auditing
 1) Trigger: audit DML on SECURE_USERS
 
@@ -421,7 +421,7 @@ END;
 /
 
 Note: The check uses the environment NLS settings; in my deployment you may need to adapt NLS_TERRITORY or use NEXT_DAY logic. This trigger demonstrates how to apply the exact course requirement (deny modifications on weekdays and holidays). Adjust as needed.
-
+![Image](https://github.com/user-attachments/assets/534bc3ee-2ba2-4ef7-acde-5d80a85e85ea)
 Phase VIII — Documentation, BI & Presentation
 BI: KPI definitions & sample analytics queries
 
