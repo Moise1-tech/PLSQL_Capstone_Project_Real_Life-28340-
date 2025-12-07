@@ -237,7 +237,7 @@ BEGIN
   COMMIT;
 END;
 /
-
+![Image](https://github.com/user-attachments/assets/248519cf-6957-4f40-83f3-57ff0a96edee)
 Phase VI — PL/SQL: package, functions, procedures, cursors, tests
 Below is a consolidated security package exposing the API the application calls.
 
