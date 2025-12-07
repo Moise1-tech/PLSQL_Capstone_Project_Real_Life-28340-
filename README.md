@@ -424,7 +424,7 @@ Note: The check uses the environment NLS settings; in my deployment you may need
 ![Image](https://github.com/user-attachments/assets/534bc3ee-2ba2-4ef7-acde-5d80a85e85ea)
 Phase VIII — Documentation, BI & Presentation
 BI: KPI definitions & sample analytics queries
-
+![Image](https://github.com/user-attachments/assets/ab862a7e-8d06-42e7-91f1-e1404ca70fc1)
 KPIs
 
 Daily Login Volume (count of attempts/day)
