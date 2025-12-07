@@ -460,3 +460,4 @@ FETCH FIRST 10 ROWS ONLY;
 -- Current locked accounts
 SELECT username, failed_attempts, locked_at FROM secure_users WHERE is_locked='Y';
 
+![Image](https://github.com/user-attachments/assets/8c863174-ea89-4761-a75f-81eedcaacb81)
