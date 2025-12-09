@@ -462,3 +462,5 @@ FETCH FIRST 10 ROWS ONLY;
 SELECT username, failed_attempts, locked_at FROM secure_users WHERE is_locked='Y';
 
 ![Image](https://github.com/user-attachments/assets/8c863174-ea89-4761-a75f-81eedcaacb81)
+presentation and describtion in ppt
+[Secure_Login_Company_Presentation.pptx](https://github.com/user-attachments/files/24058755/Secure_Login_Company_Presentation.pptx)
